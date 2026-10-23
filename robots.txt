@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mrts3c.github.io/musait-mi-web/sitemap.xml
